@@ -4,8 +4,8 @@
 	export let name;
 
 	const space = ' ';
-	const navStyle = 'text-zinc-800 hover:text-rose-500';
-	const selNavStyle = 'text-rose-500';
+	const navStyle = 'text-zinc-800 hover:text-rose-500 transition duration-150 ease-in-out';
+	const selNavStyle = 'text-rose-500 transition duration-150 ease-in-out';
 </script>
 
 {#if $page.url.pathname !== `/${name}`}
