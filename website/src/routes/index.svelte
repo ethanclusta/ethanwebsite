@@ -4,12 +4,15 @@
 
 <p class="lg:w-1/2">
     I am a practitioner, strategist and researcher in the fields of digital communities and digital media.
-    I have collaborated with the United States government in developing global strategy for digital community engagement with the Fulbright Program in over 160 countries.
+    I have collaborated with the United States government in developing global strategy with over 160 countries for the Fulbright Program's digital community of alumni and grantees.
 </p>
 <br>
 <p class="lg:w-1/2">
     I am a full-stack web developer. I have designed and built my own platform - Clusta - a completely unique way to organise, explore and share digital information without the (doom)scrolling.
-    Clusta is inspired particularly by my research into Gilles Deleuze and Felix Guattari and the Japanese concept of relationalism during my Masters degree in Digital Media Culture at Birkbeck, UoL.
+</p>
+<br>
+<p class="lg:w-1/2">
+    Clusta is inspired particularly by my research into Gilles Deleuze and Felix Guattari, the Japanese concept of relationalism and mychorrizhal root systems, which I explored during my Masters degree in Digital Media Culture at Birkbeck, UoL.
 </p>
 <br>
 <p class="lg:w-1/2">
