@@ -26,5 +26,5 @@
 </p>
 <br>
 <p class="lg:w-1/2">
-    Connect with my via <a target="_blank" class="text-blue-600 underline" href="https://twitter.com/ethans_turtles">Twitter</a> or <a target="_blank" class="text-blue-600 underline" href="https://www.linkedin.com/in/ethan-corcoran/">LinkedIn</a>.
+    Connect with me via <a target="_blank" class="text-blue-600 underline" href="https://twitter.com/ethans_turtles">Twitter</a> or <a target="_blank" class="text-blue-600 underline" href="https://www.linkedin.com/in/ethan-corcoran/">LinkedIn</a>.
 </p>
