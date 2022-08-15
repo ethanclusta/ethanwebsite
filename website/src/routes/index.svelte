@@ -24,3 +24,7 @@
     <a target="_blank" class="text-blue-600 underline" href="https://turtlesdown.substack.com">Sign up</a> 
      to my newsletter, Turtles, on media theory and digital culture.
 </p>
+<br>
+<p class="lg:w-1/2">
+    Connect with my via <a target="_blank" class="text-blue-600 underline" href="https://twitter.com/ethans_turtles">Twitter</a> or <a target="_blank" class="text-blue-600 underline" href="https://www.linkedin.com/in/ethan-corcoran/">LinkedIn</a>.
+</p>
