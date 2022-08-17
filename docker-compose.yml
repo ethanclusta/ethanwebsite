@@ -3,12 +3,22 @@ services:
     nodeserver:
         build:
             context: ./website
-        ports:
-            - "5000:5000"
-    nginx:
-        restart: always
-        build:
-            context: ./nginx
-        ports:
-            - "80:80"
-            - "443:443"
+        expose:
+            - "5000"
+        environment:
+            VIRTUAL_HOST: ethancorcoran.com
+            VIRTUAL_PORT: 5000
+    # use this when this is the only service running on VPS
+    # nginx:
+    #     restart: always
+    #     build:
+    #         context: ./nginx
+    #     ports:
+    #         - "80:80"
+    #         - "443:443"
+
+# use this when using nginx-proxy to handle multiple services on VPS
+networks:
+  default:
+    external:
+      name: nginx-proxy
